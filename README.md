@@ -22,7 +22,7 @@ Make sure all of these are properly installed in your system.
 
 | Application  | Download                                                                            |
 | ------------ | ----------------------------------------------------------------------------------- |
-| Git          | [Windows](https://gitforwindows.org/) / [Linux](https://git-scm.com/download/linux) |
+| Git          | [Windows](https://gitforwindows.org/) / [Linux](https://git-scm.com/download/linux) / [MacOS](https://git-scm.com/download/mac) |
 | React Native | [Link](https://facebook.github.io/react-native/docs/getting-started)                |
 
 ### Installation
@@ -57,7 +57,7 @@ Wait till the application is installed and run into your device. Now, you can ex
 
 ## Screenshots
 
-<img src="docs/screenshoot/Android.pn" width="350"  />
+<img src="docs/screenshoot/Android.pn" width="50%" height="50%"  />
 
 ## Built With
 

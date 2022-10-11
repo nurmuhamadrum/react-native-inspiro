@@ -57,12 +57,12 @@ Wait till the application is installed and run into your device. Now, you can ex
 
 ## Screenshots
 
-<img src="docs/screenshoot/Android.pn" width="50%" height="50%"  />
+<img src="docs/screenshoot/Android.png" width="80%"  />
 
 ## Built With
 
 - [React Native](https://facebook.github.io/react-native/) - Front-end
-- [Rest API] (https://reqres.in/) - Dummy API
+- [REST API](https://reqres.in/) - Dummy API
 
 ## Author
 

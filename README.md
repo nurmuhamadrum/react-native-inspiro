@@ -57,7 +57,7 @@ Wait till the application is installed and run into your device. Now, you can ex
 
 ## Screenshots
 
-<img src="docs/screenshoot/Android.png" width="80%"  />
+<img src="docs/screenshoot/Android.png" width="30%"  />
 
 ## Built With
 
